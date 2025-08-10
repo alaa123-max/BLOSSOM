@@ -37,7 +37,6 @@ const alaaTools = {
   "ProgrammingLanguages": ["HTML", "CSS", "JavaScript"],
   "Frameworks": ["React", "Next.js"],
   "VideoEditing": ["Adobe Premiere Pro", "After Effects"],
-  "Design": ["Photoshop", "Figma"],
   "VersionControl": ["Git", "GitHub"]
 };
 
